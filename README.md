@@ -9,7 +9,7 @@ Before running the code again make sure you delete all previously generated txt 
 
 To run the code
 >> Open the terminal from the location where all .py file exists
->> type "python 2021AIM1004.py"
+>> type "python main.py"
 
 After the partitioning we get all the main disk block and overflow disk block .txt's in the same folder where .py file was located
 We also get a user menu
