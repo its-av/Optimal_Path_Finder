@@ -17,5 +17,8 @@ We also get a user menu
 >>"Enter 2 for Dijkestra on grids"
 >>"Enter -1 to exit"
 
-Note:- Node IDs will start from 0 and will increment 1 by one i.e 0,1,2,3... in the "nodes.txt"
+Note:- 
+
+>>Make sure you put the input files "nodes.txt" and "edges.txt" in the same folder as the "main.py:"
+>>Node IDs will start from 0 and will increment 1 by one i.e 0,1,2,3... in the "nodes.txt"
 
